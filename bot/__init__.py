@@ -1,0 +1,2 @@
+"""Telegram membership bot package."""
+

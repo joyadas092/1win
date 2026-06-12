@@ -1,0 +1,9 @@
+2026-06-12 13:07:53.279 | INFO     | bot.main:main:49 - Starting membership bot
+2026-06-12 13:07:55.541 | INFO     | bot.database.mongo:connect:21 - MongoDB connected: 1WIN
+2026-06-12 13:08:01.534 | INFO     | bot.main:main:57 - Bot started: @AIAviatorSignals_bot (8802534218)
+2026-06-12 13:08:01.836 | INFO     | bot.services.tutorials:init_tutorials:45 - Tutorial ready: what_is_aviator -> -1002482808575:10
+2026-06-12 13:08:02.026 | INFO     | bot.services.tutorials:init_tutorials:45 - Tutorial ready: how_to_follow_signals -> -1002482808575:11
+2026-06-12 13:08:02.207 | INFO     | bot.services.tutorials:init_tutorials:45 - Tutorial ready: deposit -> -1002482808575:8
+2026-06-12 13:08:02.420 | INFO     | bot.services.tutorials:init_tutorials:45 - Tutorial ready: withdraw -> -1002482808575:9
+2026-06-12 13:08:02.421 | INFO     | bot.services.log_monitor:register_log_monitor:89 - Log monitor registered for channel -1003773741868
+2026-06-12 13:08:02.421 | INFO     | bot.main:main:71 - Bot is running. Press Ctrl+C to stop.
